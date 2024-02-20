@@ -1,5 +1,5 @@
 # URL Shortner Flask Application : 
-This is a flask application that will gets a long url and maps it to a short one.
+This is a flask application that can gets long urls and maps it to a short one.
 
 
 ## Overview
