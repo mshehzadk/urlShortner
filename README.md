@@ -7,7 +7,7 @@ This is a flask appplication that gets the url in an input and maps it into a st
 
 ## Requirements
 List any prerequisites or requirements needed to run your Flask application. For example:
-- Python 3.10*
+- Python 3.10
 - Flask
 - Git
 
